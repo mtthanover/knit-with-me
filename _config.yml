@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Works with PDF or Images
     description                           : Works seamlessly with PDFs or Images, allowing you to import any pattern file.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : star
 
   - title                                 : Simultaneous Projects
     description                           : Saves and tracks multiple projects at once!
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : sync
 
 
 # Theme Settings
